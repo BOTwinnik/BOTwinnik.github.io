@@ -23,11 +23,11 @@ repository               : "BOTwinnik/BOTwinnik.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Ferdinand Seum"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "I do data things"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "UKE"
   uri              : # URL
   email            : "none@example.org" 
 

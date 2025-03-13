@@ -1,26 +1,22 @@
 ---
-layout: post
-title: "Stochastic Gradient Descent"
-date: 2021-04-01
-categories: research
+title: 'The Stochastic Gradient Descent and a implementation/simulation in R'
+date: 2021-01-04
+permalink: /posts/2021/04/Stochastic-Gradient-Descent/
+tags:
 
 ---
-abstract: |
+
+
+
+## Introduction
+
   This paper will give you a basic introduction into the stochastic
   gradient descent, shows the difference in relation to the gradient
   descent and will set out some of the most important issues and
   solutions of an implementation by a simulation in context of a linear
   model.
-author:
-- |
-  Anonym\
-  *University of Vienna*
-bibliography:
-- references.bib
-date: April 2021
-title: "**The Stochastic Gradient Descent and a
-  implementation/simulation in R**"
----
+
+
 
 # Introduction
 
